@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=amused wolf car roti fed522
+EXAMCODE=251323557
 
 echo ${EXAMCODE}
